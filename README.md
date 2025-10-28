@@ -77,27 +77,31 @@ https://geocode.maps.co/reverse?lat={lat}&lon={lon}
 
 💡 How It Works
 
-1️⃣ On page load, the app asks for location permission.
+1️⃣. On page load, the app asks for location permission.
 
-2️⃣ If granted, it fetches your latitude and longitude using navigator.geolocation.
+2️⃣. If granted, it fetches your latitude and longitude using navigator.geolocation.
 
-3️⃣ The app then requests weather data from Open-Meteo API for those coordinates.
+3️⃣. The app then requests weather data from Open-Meteo API for those coordinates.
 
-4️⃣ If denied, you can manually search for a city to get its weather.
+4️⃣. If denied, you can manually search for a city to get its weather.
 
-5️⃣ The 7-day forecast displays below the main weather card.
+5️⃣. The 7-day forecast displays below the main weather card.
 
 
 
 🖼 Screenshots
 
 
+1️⃣.The Weather Now app requesting location access to show your current local weather details.
+
 <img width="1307" height="644" alt="Img1" src="https://github.com/user-attachments/assets/b2ce0cfe-38c8-42cb-85e7-650840cce5e2" />
 
 
+2️⃣.Weather results and 7-day forecast displayed for Bagalkote with dynamic temperature and condition.
+
 <img width="674" height="643" alt="Img2" src="https://github.com/user-attachments/assets/df27c89f-c271-43ee-a692-9cbcf82a7070" />
 
-
+3️⃣. Example of weather information and forecast for Mysuru city fetched using Open-Meteo API.
 <img width="577" height="609" alt="Img3" src="https://github.com/user-attachments/assets/3298832c-2ae3-4758-be72-deda0c6f7e0c" />
 
 
