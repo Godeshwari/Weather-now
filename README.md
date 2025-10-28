@@ -37,6 +37,8 @@ It uses the Open-Meteo API for real-time weather data .
 • Geocode API (maps.co) – Used for reverse geocoding (get city name from coordinates)
 
 
+
+
 ⚙ Installation & Setup
 
 1️⃣ Clone the repository
@@ -52,6 +54,7 @@ Simply open the index.html file in your browser, or use a local server:
 
 - If you have VS Code:
 npx live-server
+
 
 
 🌍 API Reference
@@ -70,6 +73,7 @@ https://geocode.maps.co/reverse?lat={lat}&lon={lon}
 
 
 
+
 💡 How It Works
 
 1️⃣ On page load, the app asks for location permission.
@@ -85,6 +89,16 @@ https://geocode.maps.co/reverse?lat={lat}&lon={lon}
 
 
 🖼 Screenshots
+
+
+
+
+
+
+
+
+
+
 
 | Feature             | Preview                                           |
 | ------------------- | ------------------------------------------------- |
