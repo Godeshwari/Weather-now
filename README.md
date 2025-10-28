@@ -127,3 +127,16 @@ https://geocode.maps.co/reverse?lat={lat}&lon={lon}
 | 📅 7-Day Forecast   | Displays min/max temperature  |
 | 📱 Responsive View  | Works smoothly on mobile & desktop               |
 
+
+
+👩‍💻 Author
+
+Developed by: Godeshwari 
+
+📧 Email: godeshwarichavan@gmail.com
+
+🌐 GitHub: https://github.com/Godeshwari.git
+
+
+⭐ If you like this project, give it a star  ⭐
+
