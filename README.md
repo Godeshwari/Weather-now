@@ -5,6 +5,7 @@ and 7-day forecasts for any city — or automatically detect their current locat
 It uses the Open-Meteo API for real-time weather data .
 
 
+
 🌟 Features
 
 ✅ Real-Time Weather: Instantly displays temperature, wind speed, and weather conditions.
