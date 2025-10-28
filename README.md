@@ -92,6 +92,22 @@ https://geocode.maps.co/reverse?lat={lat}&lon={lon}
 🖼 Screenshots
 
 
+<img width="1307" height="644" alt="Img1" src="https://github.com/user-attachments/assets/b2ce0cfe-38c8-42cb-85e7-650840cce5e2" />
+
+
+<img width="674" height="643" alt="Img2" src="https://github.com/user-attachments/assets/df27c89f-c271-43ee-a692-9cbcf82a7070" />
+
+
+<img width="577" height="609" alt="Img3" src="https://github.com/user-attachments/assets/3298832c-2ae3-4758-be72-deda0c6f7e0c" />
+
+
+
+
+
+
+
+
+
 
 
 
